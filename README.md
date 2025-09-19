@@ -15,7 +15,7 @@ This project analyzes employee data to predict which employees are likely to lea
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python
 - **Data Analysis**: `pandas`, `numpy`
 - **Visualization**: `matplotlib`, `seaborn`, `plotly`
 - **Machine Learning**: `scikit-learn`, `imblearn`
