@@ -29,7 +29,7 @@ This project analyzes employee data to predict which employees are likely to lea
 ├── 03Finding_Correlation.py            # Correlation analysis
 ├── 04Feature_Engineering.py            # Data preprocessing pipeline
 ├── 05Attrition_prediction.py          # Model training and evaluation
-├── Employee_Attrition-2.pdf           # Complete project documentation
+├── Employee_Attrition.pdf           # Complete project documentation
 └── README.md                          # This file
 ```
 
